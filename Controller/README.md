@@ -1,4 +1,6 @@
-The Following Google Drive link contains the dataset. <br>
-These images were collected from two Green Machine units.<br>
-The images are classified into six categories.<br>
-https://drive.google.com/drive/folders/1plwRSlkrh_CjzxyGFoRdge1ZZK0UEa1m?usp=sharing
+# Controller
+
+This folder contains <br>
+The Board Support Package - de10_nano_sharedonly_uart <br>
+The host program that runs on the HPS<br>
+The OpenCL kernel file<br>
