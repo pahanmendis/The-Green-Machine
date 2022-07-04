@@ -1,4 +1,4 @@
-# Convolutional Nueral Network Training
+# Convolutional Neural Network Training
 
 The Following Google Drive link contains the dataset. <br>
 These images were collected from two Green Machine units.<br>
